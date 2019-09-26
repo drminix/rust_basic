@@ -48,3 +48,49 @@ fn test_gcd() {
 ```
 and type cargo test
 9. attribute: #[test] is an exmple of an attribute. 
+
+#another example
+```rust
+extern crate iron;
+#[macro_use] extern crate mine;
+
+use iron::prelude::*;
+use iron::status;
+
+fn main() {
+	println!("Serving on http://localhost:3000...");
+	Iron::new(get_form).http("localhost:3000").unwrap();
+}
+
+
+fn get_form(_request_request:&mut Request) -> IronResult<Respose> {
+	//response
+	let mut response = Reponse::new();
+
+	response.set_mut(Status::Ok);
+	Response.set_mut(mine!(Text/Html;Charset=Utf8));
+	Response.set_mut(r#"
+		<title>GCD Calculator</title>
+		<form action="/gcd" method="post">
+		<input type="text" name="n"/>
+		<input type="text" name="n"/>
+		<button type="submit">Compute GCD</button>
+		</form>
+	"#);
+
+	Ok(response)
+
+}
+```
+1. importing other crates: extern crate makes cargos that we cited in our cargo.toml file available to our program.
+#[macro_use] attribute before the extern crate mime alerts Rust that we plan to use macros exported by this crate
+
+2. Make public names visible in our current code: eg) use iron::prelude::* 
+
+3. \_request: tell Rust that it will be unused so don't warn us
+
+4. 
+
+
+
+
