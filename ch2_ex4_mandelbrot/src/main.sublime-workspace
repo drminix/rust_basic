@@ -1,0 +1,294 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ins",
+				"installPhase"
+			],
+			[
+				"equ",
+				"assert_array_almost_equal"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+			"ls",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/slee/Downloads/sha256sums.asc",
+		"/home/slee/projects/nix-setup-MCS1849/realtime-kernels/default.nix",
+		"/etc/nixos/realtime-kernels/linux-5.1-rt.nix",
+		"/etc/nixos/linux-kernels/default.nix",
+		"/etc/nixos/realtime-kernels/README.md",
+		"/etc/nixos/linux-kernels/README",
+		"/etc/nixos/kernel.nix",
+		"/etc/nixos/network.nix",
+		"/etc/nixos/configuration.nix",
+		"/etc/nixos/services.nix",
+		"/home/slee/projects/rust/rust_basic/ch2_ex3/iron-gcd/Cargo.toml",
+		"/home/slee/projects/rust/rust_basic/ch2_ex3/iron-gcd/src/main.rs",
+		"/home/slee/projects/rust/rust_basic/ch2_ex4_mandelbrot/Cargo.toml",
+		"/home/slee/projects/rust/rust_basic/ch2_ex4_mandelbrot/src/main.rs",
+		"/home/slee/projects/rust/rust_basic/ch2_ex2/src/main.rs",
+		"/home/slee/.config/nixpkgs/home-overlays/user/slee.nix",
+		"/etc/nixos/desktop.nix",
+		"/home/slee/projects/rust/rust_basic/.gitignore",
+		"/etc/nixos/hardware-configuration.nix",
+		"/home/slee/projects/nix-setup/slee-configuration/services.nix",
+		"/home/slee/projects/nix-setup/slee-configuration/configuration.nix",
+		"/home/slee/projects/nix-setup/slee-configuration/desktop.nix",
+		"/home/slee/projects/nix-setup/slee-configuration/network.nix",
+		"/home/slee/projects/nix-setup/slee-configuration/packages.nix",
+		"/home/slee/projects/nix/musnix/default.nix",
+		"/home/slee/projects/nix-setup/slee-configuration/users.nix",
+		"/home/slee/projects/nix/nixvm/trivial-vbox.nix",
+		"/home/slee/projects/nix/nixvm/test",
+		"/home/slee/projects/nix/nixvm/trivial.nix",
+		"/home/slee/projects/nix-setup/slee-configuration/hardware-configuration-dellxps15.nix",
+		"/home/slee/projects/nix/nixpkgs/_",
+		"/home/slee/projects/nix/ex8-graphviz/default.nix",
+		"/home/slee/projects/nix/ex6-more-generic-builder/builder.sh",
+		"/home/slee/week4-live-session",
+		"/home/slee/projects/nix/ex7-nix-shell/hello.nix",
+		"/home/slee/projects/nix/ex8-graphviz/autotools.nix",
+		"/home/slee/projects/nix/ex8-graphviz/graphviz.niz",
+		"/home/slee/projects/nix/ex7-nix-shell/setup.sh",
+		"/home/slee/projects/nix/ex7-nix-shell/builder.sh",
+		"/home/slee/projects/nix/ex6-more-generic-builder/autotools.nix",
+		"/home/slee/projects/nix/ex5-generic-builder/builder.sh",
+		"/home/slee/projects/python/test/test.cpp",
+		"/home/slee/projects/nix/a.nix",
+		"/home/slee/projects/nix/b.nix",
+		"/home/slee/projects/nix/mul.nix",
+		"/home/slee/projects/nix/test.nix",
+		"/home/slee/projects/nix/ex2/builder.sh",
+		"/home/slee/projects/nix/ex3-package-simplec/simple.c",
+		"/home/slee/projects/nix/ex3-package-simplec/simple_builder.sh",
+		"/home/slee/projects/nix/ex4/simple.nix",
+		"/home/slee/projects/nix/ex4/hello_builder.sh",
+		"/home/slee/projects/nix/builder.sh",
+		"/home/slee/projects/nix/ex6-more-generic-builder/hello.nix",
+		"/home/slee/projects/nix/ex5-generic-builder/hello.nix",
+		"/home/slee/projects/nix/ex5-generic-builder/autotools.nix",
+		"/home/slee/projects/nix/ex4/hello.nix",
+		"/home/slee/projects/sw-MCS1773/core/config_files/machines/simulator/user/values.yaml",
+		"/home/slee/projects/python/mymath/mymath.h",
+		"/home/slee/projects/python/mymath/CMakeLists.txt",
+		"/home/slee/projects/nix-setup/test/shell.nix",
+		"/etc/wpa_supplicant.conf",
+		"/home/slee/projects/sw-MCS1773/core/simulation/simulator_test.py",
+		"/home/slee/.config/nixpkgs/private/config",
+		"/home/slee/.config/nixpkgs/private/config.nix",
+		"/home/slee/projects/nix-setup/ryan-configuration/configuration.nix",
+		"/home/slee/projects/sw/core/calibration.py",
+		"/home/slee/projects/sw/core/util/__init__.py",
+		"/home/slee/projects/sw/core/config_files/machines/simulator/user/values.yaml",
+		"/home/slee/projects/sw/core/config_files/machines/simulator/simulator/values.yaml",
+		"/home/slee/.config/nixpkgs/home.nix",
+		"/home/slee/.config/nixpkgs/config.nix"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

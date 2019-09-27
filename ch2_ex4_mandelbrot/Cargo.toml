@@ -1,0 +1,9 @@
+[package]
+name = "ch2_ex4_mandelbrot"
+version = "0.1.0"
+authors = ["sam lee <shlee@magneticinsight.com>"]
+edition = "2018"
+
+[dependencies]
+num = " 0.1.27"
+image = "0.13.0"
